@@ -23,6 +23,6 @@ You can reach the team's meetings and personal logbooks below.
 * Personal Logbooks
     * <a href="https://cargobot-project.github.io/Cargobot/21803589_Saitcan_Baskol_Logbook">Saitcan Başkol</a>
     * <a href="https://cargobot-project.github.io/Cargobot/21902638_Gokberk_Beydemir_Logbook">Gökberk Beydemir</a>
-    * <a href="https://cargobot-project.github.io/Cargobot/219018185_Kutay_Demiray_Logbook">Kutay Demiray</a>
+    * <a href="https://cargobot-project.github.io/Cargobot/21901815_Kutay_Demiray_Logbook">Kutay Demiray</a>
     * <a href="https://cargobot-project.github.io/Cargobot/21902238_Berke_Ucar_Logbook">Berke Uçar</a>
     * <a href="https://cargobot-project.github.io/Cargobot/21902951_Yagiz_Yasar_Logbook">Yağız Yaşar</a>
