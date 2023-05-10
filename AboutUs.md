@@ -1,4 +1,4 @@
-<a href="https://cargobot-project.github.io/Cargobot">< Back</a>
+<a href="https://cargobot-project.github.io/CargobotWebsite/">< Back</a>
 
 ## Our Team
 <table>
