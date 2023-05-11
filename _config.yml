@@ -1,4 +1,6 @@
 title: Cargobot
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
 description: Optimize loading it!
+plugins:
+- jekyll-remote-them
