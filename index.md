@@ -1,5 +1,6 @@
 # Cargobot
 
+<a href="https://github.com/Cargobot-Project/cargobot">GitHub Repository of the Project</a>
 <a href="https://cargobot-project.github.io/CargobotWebsite/AboutUs">About Us</a>
 
 ## Introduction 
@@ -17,14 +18,10 @@ Furthermore, using our smart labels on boxes, you will be able to give the Cargo
 * <a href="https://drive.google.com/file/d/1nkh3GqsXFPHH6GraikUclmELni8pfWpM/view?usp=sharing">Specification Document</a>
 * <a href="https://drive.google.com/file/d/1T6ZUVc6eB6ezl-exVewEgYSwAYPuQvH4/view?usp=sharing">Analysis & Requirements Document</a>
 * <a href="https://drive.google.com/file/d/13_ZsC5HPezpRIO-_O0CDOf2xjrQkFk_u/view?usp=sharing">Specification Document</a>
-### Logbooks and Progress 
+  
+
+### Meetings
 
 You can reach the team's meetings and personal logbooks below. 
 
 * <a href="https://cargobot-project.github.io/Cargobot/MeetingsLogbook">Meetings Logbook</a>
-* Personal Logbooks
-    * <a href="https://cargobot-project.github.io/Cargobot/21803589_Saitcan_Baskol_Logbook">Saitcan Başkol</a>
-    * <a href="https://cargobot-project.github.io/Cargobot/21902638_Gokberk_Beydemir_Logbook">Gökberk Beydemir</a>
-    * <a href="https://cargobot-project.github.io/Cargobot/21901815_Kutay_Demiray_Logbook">Kutay Demiray</a>
-    * <a href="https://cargobot-project.github.io/Cargobot/21902238_Berke_Ucar_Logbook">Berke Uçar</a>
-    * <a href="https://cargobot-project.github.io/Cargobot/21902951_Yagiz_Yasar_Logbook">Yağız Yaşar</a>
