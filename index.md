@@ -1,6 +1,7 @@
 # Cargobot
 
 <a href="https://github.com/Cargobot-Project/cargobot">GitHub Repository of the Project</a>
+</br>
 <a href="https://cargobot-project.github.io/CargobotWebsite/AboutUs">About Us</a>
 
 ## Introduction 
