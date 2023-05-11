@@ -1,6 +1,6 @@
 # Cargobot
 
-<a href="https://cargobot-project.github.io/Cargobot/AboutUs">About Us</a>
+<a href="https://cargobot-project.github.io/CargobotWebsite/AboutUs">About Us</a>
 
 ## Introduction 
 This is the Cargobot's Project Website for CS 491/2 Fall 2022/Spring 2022 semesters in Bilkent University. This is made for you track our project's progress through the semester.
