@@ -1,6 +1,6 @@
 # Cargobot
 
-<a href="https://github.com/Cargobot-Project/cargobot">GitHub Repository of the Project</a>
+<a href="https://github.com/Cargobot-Project/cargobot">GitHub Repository and Source Code of the Project</a>
 <br>
 <a href="https://cargobot-project.github.io/CargobotWebsite/AboutUs">About Us</a>
 
@@ -18,11 +18,12 @@ Furthermore, using our smart labels on boxes, you will be able to give the Cargo
 ### Reports 
 * <a href="https://drive.google.com/file/d/1nkh3GqsXFPHH6GraikUclmELni8pfWpM/view?usp=sharing">Specification Document</a>
 * <a href="https://drive.google.com/file/d/1T6ZUVc6eB6ezl-exVewEgYSwAYPuQvH4/view?usp=sharing">Analysis & Requirements Document</a>
-* <a href="https://drive.google.com/file/d/13_ZsC5HPezpRIO-_O0CDOf2xjrQkFk_u/view?usp=sharing">Specification Document</a>
+* <a href="https://drive.google.com/file/d/13_ZsC5HPezpRIO-_O0CDOf2xjrQkFk_u/view?usp=sharing">Detail Design Document</a>
+* <a href="https://drive.google.com/file/d/1k_hVvSm70OBqnYE6qbeVrVIs1ChRZEoh/view?usp=sharing">Final Report</a>
   
 
 ### Meetings
 
-You can reach the team's meetings and personal logbooks below. 
+You can reach the team's progress meetings below. 
 
-* <a href="https://cargobot-project.github.io/Cargobot/MeetingsLogbook">Meetings Logbook</a>
+* <a href="https://drive.google.com/drive/folders/1wz6EU4lKqlVh3xfemJxqNzXfFnvCqy59?usp=sharing">Meetings Logbook</a>
