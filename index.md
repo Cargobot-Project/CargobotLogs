@@ -1,11 +1,11 @@
 # Cargobot
 
 <a href="https://github.com/Cargobot-Project/cargobot">GitHub Repository and Source Code of the Project</a>
-<br>
+---
 <a href="https://cargobot-project.github.io/CargobotWebsite/AboutUs">About Us</a>
 
 ## Introduction 
-This is the Cargobot's Project Website for CS 491/2 Fall 2022/Spring 2022 semesters in Bilkent University. This is made for you track our project's progress through the semester.
+This is the Cargobot's Project Website for CS 491/2 Fall 2022/Spring 2023 semesters in Bilkent University. This is made for you track our project's progress through the semester.
 
 ## Purpose 
 Cargobot aims to optimize cargo loading to the trucks in a contemporary way that our AI technology is optimizing the trailer area loading with respect to classification of different cargo types such as fragility,orientation (vertical, horizontal), priority ve weight. With our technology optimizing the trailer area will increase the transportation amount of the cargo's which will leads to less manpower cost and more profit for the cargo firms.
@@ -20,7 +20,9 @@ Furthermore, using our smart labels on boxes, you will be able to give the Cargo
 * <a href="https://drive.google.com/file/d/1T6ZUVc6eB6ezl-exVewEgYSwAYPuQvH4/view?usp=sharing">Analysis & Requirements Document</a>
 * <a href="https://drive.google.com/file/d/13_ZsC5HPezpRIO-_O0CDOf2xjrQkFk_u/view?usp=sharing">Detail Design Document</a>
 * <a href="https://drive.google.com/file/d/1k_hVvSm70OBqnYE6qbeVrVIs1ChRZEoh/view?usp=sharing">Final Report</a>
-  
+* <a href="https://drive.google.com/file/d/1HeW15agZRyj-qPCThr3cQI_XAmF06V17/view?usp=sharing">Final Presentation as pdf</a>
+* <a href="https://www.canva.com/design/DAFUQjQZO0A/JAKxZkbk7zvE8-uTZSNWUQ/edit?utm_content=DAFUQjQZO0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Final Presentation with Demo</a>
+> Video demos can be seen in link above.
 
 ### Meetings
 
