@@ -21,7 +21,7 @@ Furthermore, using our smart labels on boxes, you will be able to give the Cargo
 * <a href="https://drive.google.com/file/d/13_ZsC5HPezpRIO-_O0CDOf2xjrQkFk_u/view?usp=sharing">Detail Design Document</a>
 * <a href="https://drive.google.com/file/d/1k_hVvSm70OBqnYE6qbeVrVIs1ChRZEoh/view?usp=sharing">Final Report</a>
 * <a href="https://drive.google.com/file/d/1HeW15agZRyj-qPCThr3cQI_XAmF06V17/view?usp=sharing">Final Presentation as pdf</a>
-* <a href="https://www.canva.com/design/DAFUQjQZO0A/JAKxZkbk7zvE8-uTZSNWUQ/edit?utm_content=DAFUQjQZO0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Final Presentation with Demo</a>
+* <a href="https://drive.google.com/drive/folders/1iCUwzav7CWXCWsggBIXEIeRhMmarAgL3?usp=sharing ">Demo Videos Folder</a>
 > Video demos can be seen in link above.
 
 ### Meetings
